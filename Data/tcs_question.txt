@@ -1,0 +1,111 @@
+how do i access the new global ess ?
+how do i access the new global ess ?
+what are the new features added in the new global ess ?
+earlier , i would go to the request list under each module to track status of my request . is this available in the new global ess as well ?
+where do i find all those responsibilities in the new global ess ?
+can i view all the reports in the new global ess and where do i find them ?
+where can i view the reports module in the new global ess home page ?
+where can i find the links to various applications in the new global ess menu ?
+what is quick search functionality ?
+what is a sitemap ?
+how can i navigate to sitemap in the new global ess ?
+how will any alert be communicated to an associate ?
+how will an announcement be communicated to an associate ?
+what does help centre in the new global ess home page consists of ?
+on gess home page a few functionality shortcuts are provided by default . can i replace/customise them with my desired functionalities ?
+how do i pin a particular functionality to reflect as part of favourites in my global ess home page ?
+how do i unpin a particular functionality to reflect as part of favourites in my global ess home page ?
+how many functionalities can i set as favourites in my global ess home page ?
+can i unpin the request list and pin any functionality in place of request list ?
+can i pin more than one of my applications request list as favorites in global ess home page ?
+can i customise/unpin track request workflow/my work list/help centre with any other application links ?
+how many favourites can be customised on global ess home page ?
+how can i navigate to global ess home page from any of the application pages ?
+how can i navigate to other applications within global ess from a particular application ?
+why am i not able to see the option for selecting local transport in accommodation transport form ?
+why am I not able to see the option for selecting Intracity transport in accommodation transport form ?
+can i apply for accommodation/transport only for my dependants/guests ?
+how to enter local travel details before departure on international travel ?
+how can i track the status of my request and view request details ?
+why am i not able to see accommodation transport links on global ess home page ?
+how do i raise extension request for accommodation ?
+why am i not able to add multiple locations for accommodation request ?
+why am i unable to view the home/host option while applying for an advance ?
+how can i apply for various types of advances ?
+why am i unable to view my travel request while applying for a travel advance ?
+what is branch and dc under ‘ finance location ’ section in the ‘ apply advance ’ form ?
+why am i unable to apply for a particular advance type ?
+how do i fill onsite reporting form (orf) ?
+what is meant by a frozen request ?
+why is the tracker incomplete even though my advance request is approved at all levels ?
+when can i obtain access to the depute country advance module ?
+when will my access to the advance module at host/depute country be revoked ?
+what is the significance of ‘ seek clarification ’ tab ?
+while approving the request , why am i unable to increase the amount ?
+will i be allowed to accept an associate ’s request for a refund that is more than the outstanding amount ?
+why am i unable to accept refund for an associate ?
+why am i unable to reset the flag for an associate in allow another advance form ?
+what are the requirements to be able to log in the benefits system ?
+what are pre-requisites to apply for benefits for me and my dependants ?
+where can i enter my ssn details ?
+where can i enter my dependant details ?
+where can i enter my residential address ?
+how can i track the status of my request and view request details ?
+how can i enroll in benefits if i am a us local hire and relocating from outside the us and open enrollment period is over ?
+do i have to fill in all the details in the my beneficiary screen ?
+who can i choose in the relationship name in the my beneficiary screen ?
+what is contingency beneficiary ?
+do i have to enter details against the contingency beneficiary ?
+who can i choose in the relationship name in contingency beneficiary ?
+what is purpose of the my enrollments screen ?
+why don ’t i have a hyperlink in the request number column in the my enrollments screen ?
+how do i carry out reporting for my dependants that have traveled with me on long term deputation ?
+what is the fsa plan ?
+what is the dfsa plan ?
+where can i find benefits-related notifications ?
+what is the per pay period contribution ?
+what is the annual contribution in fsa\dfsa ?
+what is the coverage amount in life insurance ?
+for which plans can i enroll my dependants ?
+why am i not able to see any dependants ?
+why do i need to upload proof that my child is a full-time student ?
+why do i need to upload proof for a handicapped child ?
+why do i need to verify my address ?
+how can i terminate a plan that i had enrolled in ?
+why is the self column always ticked ?
+what is the event date in life changing events ?
+how can i enroll in benefits if i am a new hire and open enrollment period is over ?
+how do i approve a benefit request ?
+why is the request which was seen initially not showing in my fya worklist ?
+what is boquet of benefits (bob) ?
+what is the purpose of defining bob ?
+where can i define my bouquet of benefits (bob) for tax benefit purposes ?
+who can change their predefined bouquet of benefits (bob) in ultimatix ?
+can any employee change the fixed components of the salary ?
+how many times bob can be defined by an employee ?
+what is the tcs predefined bouquet of benefit structure ?
+for how long the chosen bob is valid ?
+what are the various components that are covered under a bob package ?
+what is the maximum amount for food coupons that can be specified while defining bob ?
+how to view the pre-defined bob structure ?
+how to view the detailed structure of the bob defined ?
+till which date bob must be defined to get the benefit in the current month's payroll ?
+can I define my bob while on long term deputation ?
+if my bob has already been declared in the system for the previous year, do I still need to re-declare it in the current financial year to avail tax benefits ?
+if my trlp request has already been declared and approved in the system for the previous year , do i still need to re-declare it in the current financial year to avail the tax benefits ?
+if i have used my two attempts to redefine bob but i have got a promotion , will i get an additional chance to redefine bob ?
+if i get a promotion but still have one chance to redefine bob , will i get an additional chance to redefine bob ?
+what is bob kitty allowance ?
+can i adjust my bob kitty allowance while redefining bob ?
+who can define vehicle maintenance allowance component of bob ?
+who can define the adhoc allowance , soft furnishing , entertainment allowance , utilities components of bob ?
+where can i declare my pran ?
+who all will be able to define new pension scheme (nps) component of bob ?
+who all will be able to view link to contribute to nps through superannuation amount ?
+what is the minimum and maximum amount that can be defined under new pension system (nps) component ?
+no , you will be able to declare your pran in global ess but not allowed to define nps component of bob while on long term deputation ?
+if I have used my two attempts to redefine bob and also additional chance on promotion , will I get an additional chance for defining new pension system (nps) component of bob ?
+what is car usage module ?
+what does fbt stand for ?
+car usage module is available for whom ?
+can an associate create a new record ?

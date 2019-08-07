@@ -1,0 +1,111 @@
+to access gess, go to ultimatix , employee services , employee self services , gloabal ess .
+logon to ultimatix and click gess in tag cloud on ultimatix home page .
+some new features added to the new global ess are as follows .
+no, in the new global ess request list for each module will appear under the request list tab in the vertical mega menu .
+all the activities that you perform on behalf of other associates are now grouped under responsibilities , responsibilities for each module are categorised and appear under the responsibilities tab .
+you can access all the reports in the new tab reports available in the new vertical mega menu of the new global ess home page .
+you can view the reports module only if you have access to reports of any module .
+you can search for the link by clicking quick search on the home page or sitemap .
+quick search is a simple character search .
+sitemap is a visually organised model consisting of all links relevant to you as per your defined role in global ess .
+you can navigate to the sitemap by clicking sitemap available at the bottom of every gess application page .
+alerts appear when an associate logs in to gess .
+the announcement will appear as an overlay at the top of the gess home page when an associate logs in to gess .
+help centre in the new global ess consists of the faqs, training manuals and the links to policy documents (wherever applicable) for the various applications in global ess .
+by default , as per your country (number of applications rolled out in your respective country) , a default list of functionalities has been set as favourites . you can unpin the default functionalities and pin the required functionalities .
+to pin a particular functionality as favourites in your home page , click pin icon next to the functionality in the pin my tiles page .
+to unpin a particular functionality from favourites , click unpin icon next to the functionality either from the display panel or the pin my tiles page .
+you can set nine functionalities as favourites in the gess home page .
+no , you cannot unpin a request list and pin another functionality .
+no , you can only pin one request list in the global ess home page .
+no , these cannot be customised with any of the application links .
+the minimum number of links that can be set as favourites are based on the country (based on the modules rolled out in the country) .
+you can navigate to global ess home page either by clicking home available in the header or the home icon available in the breadcrumb available at the top right corner of the application page .
+you can view the entire global ess menu as an overlay by clicking the collapsible menu icon .
+option for local transport will be displayed only to c4 and above grade associates as per the policy .
+option for intracity transport will be displayed only to sp2 and above grade associates as per the policy .
+yes , you can apply for accomodation/transport only for your dependants/guests .
+you can enter the local travel details for ticketing purposes in intra country travel section provided in all international travel forms .
+you may not be allowed to raise this particular type of travel request due to some restrictions in the travel policy .
+currently accomodation transport link is provided only to india tcs associates .
+you need to choose the "apply against extension request" and select the travel request number for which extension is required .
+you are not allowed to raise accommodation request for multiple cities in one request .
+if you are on a deputation , your current depute location will be considered for advance by default and hence , the home/host option will not be available .
+to apply for the various advances , go to ultimatix , gess , claims and advances , advance .
+existing travel requests appear only if they are approved by your project level supervisor (the travel duration end date must be a future date) .
+all the branches and delivery centers (dcs) of the selected country will be populated in the respective lists , you must select an appropriate branch and dc so that your request is processed accordingly .
+you must not be eligible for that particular advance type .
+you can access the onsite reporting form (orf) form at ultimatix , employee self services , global ess , worklist .
+if a request is frozen , it means that the workflow process of the request has stopped .
+after the advance request is approved , the payment is made through accounts payable (ap) in 4 - 5 working days after which the request workflow gets completed along with the tracker .
+if you are on non-business visa , you can access depute country advance module .
+after the departure request (dpr) raised by you is approved , the access to host country advance module is revoked .
+if any clarification is required by any approver , they can use the ‘ seek clarification ’ tab to ask for clarification to the applicant/previous approver .
+as a finance approver , you can decrease the amount . you can also increase it up to the next higher digit only for approximation .
+yes , the extra amount will be paid back to the associate through automatic invoice generation from accounts payable (ap) .
+you can accept refund only of those associates who have outstanding advances in the company/country where you are tagged .
+you can reset the flag only of those associates who have outstanding advances in the company/country where you are tagged .
+you have to be a us local hire to be able to log into benefits system .
+your ssn number , dob and residential address need to be present in hr management system to apply for benefits for you and your dependants .
+you can enter your ssn details through the following path in ultimatix: employee services , hr management , launch hr management , tcs employee self service , overseas identification details .
+you can enter your dependant details through the following path in ultimatix: employee services , hr management , launch hr management , tcs employee self service , dependant details .
+you can enter your residential address through the following path in ultimatix: employee services , hr management , launch hr management , tcs employee self service , onsite residence address .
+you can track the status as well as request details using the my request list .
+you can enroll in benefits by using the ‘relocation from other country’ link under benefit system .
+yes , you must fill in all the details in the my beneficiary screen since this information will be used for life insurance purposes .
+you can choose any person that may be your dependant , next of kin , and so on in the my beneficiary screen .
+if the beneficiary that you have listed as part of your my beneficiary details is no more , the life insurance funds will be handed over to the contingency beneficiary .
+you may or may not enter a contingency beneficiary .
+you can choose any person that may be your dependant, next of kin, neighbor, and so on in contingency beneficiary .
+the my enrollments screen displays your current enrollments that are active in the system on the current date .
+the my enrollment screen is only for viewing your current enrollments that are active in the system on the current date .
+you can use the onsite reporting form that you used to perform reporting for your dependants on long term deputation travel .
+fsa concerns the reimbursement of health care or dental expenses for you or your dependents .
+dfsa concerns the reimbursement of childcare costs (that is , day care) for your dependents .
+to access benefits-related notifications received , navigate to the workList link that is available at the top-right corner on all gess pages .
+per pay period contribution is the contribution that will be deducted from your payroll on a bi-weekly basis .
+annual contribution in fsa/dfsa is the contribution that you can enter for yourself and your dependants for an year for enrolling in the plan .
+the coverage amount in life insurance is the coverage that you and your dependants are entitled on account of your life insurance policy .
+you can enroll your dependants for all the available plans .
+you can view only those dependants that were added through hr management .
+you will need to upload a proof that he/she is a full-time student for verification purposes and is mandatory for obtaining approval from a benefit specialist .
+you will need to upload a proof of your child's handicap for verification purposes .
+it is essential that your residential address is accurate and that the same is suitably verified .
+plans can be terminated by two ways depending if their coverage start date is future dated or they are active as on system date .
+tou (denoted by self) are enrolled by default in all enrollments , no enrollments can be performed without you being enrolled first , thus , the self column is always ticked .
+event date in life changing events is the date on which event such as marriage , divorce etc . has happened .
+you can enroll in benefits by using the ‘new hire’ link under benefit system .
+to approve a benefit request , access the WorkList link , which is available at the top-right corner of any page in the gess .
+the request goes away from your worklist in two cases , either when request is cancelled by associate or if parallel approver approves .
+bouquet of benefits (bob) allows tcs india employees to distribute their total bouquet of benefit amount amongst the variable salary components , depending upon what an employee thinks is the best fit combination .
+the purpose of defining bob is to get maximum tax benefit .
+to define your bob , go to ultimatix , employee services , employee self service (ess) , global ess , benefits and taxes , bouquet of benefits (bob) , apply bob .
+all tcs india employees can change bouquet of benefits (bob) .
+employees are not allowed to change fixed components and retrials .
+employees can change their bob twice during a financial year .
+the total bouquet of benefit amount that employees are entitled to depends on their grade and basic salary .
+the bob defined by employees will remain valid until they opt to change it .
+all the variable salary components are covered under the bob package .
+the maximum amount that an employee can specify against the food coupons component in bob is inr 3000 .
+to view the pre-defined bob structure , go to ultimatix , employee services , employee self service (ess) , global ess , benefits and taxes , bouquet of benefits (bob) , my defined bob , bob overview .
+to view the detailed structure of bob , go to ultimatix , employee services , employee self service (ess) , global ess , benefits and taxes , bouquet of benefits (bob) , my defined bob , detailed bob .
+bob should be defined before the payroll freeze date , (usually it is fifth day of the month) to get the benefits in the current month's payroll .
+yes , you can define your bob while on long term deputation .
+no , the bob defined is valid until the next time you opt to change it .
+yes , you need to declare a fresh trlp request for the current financial year to avail the tax benefits .
+in case employees are promoted and have already utilized their two chances of defining bob , an additional chance to redefine bob is given to them .
+in case an employee gets a promotion but still has one chance to redefine bob , the employee will not get an additional chance to redefine .
+bob kitty allowance is the difference amount between the latest employee defined bob and the latest tcs predefined bob structure .
+yes , an employee can adjust the bob kitty allowance while redefining bob .
+employees in grade equivalent to c3a and above can define vehicle maintenance allowance component of bob .
+only employees in grade sp4 and sp5 are allowed to define the adhoc allowance , soft furnishing , entertainment allowance , utilities components of bob .
+to declare your pran , go to ultimatix , employee services , employee self service (ess) , global ess , my profile , pran details .
+only employees who have registered their pran under nps corporate model with hdfc securities ltd & updated/declared their pran details will be allowed to define nps component of bob .
+an employee with more than inr 1.5 lakh per annum superannuation contribution can view the link to contribute to nps corporate model .
+you can define minimum 6000 annually or maximum 10% of annual basic salary from total bob or superannuation .
+can i define new pension scheme (nps) component of bob while on long term deputation ?
+no , in case employees have already used their two chances of defining bob and also the chance on promotion , there will not be any additional chance to redefine new pension system (nps) component .
+car usage module is developed to automate the process of entering the amounts for lease / rental , insurance and upload of monthly expenses in the system .
+fbt stands for fringe benefit tax .
+car usage module is only available to tcs associates in usa .
+the very first record is always created by the admin , after that an associate cna create a new record .
