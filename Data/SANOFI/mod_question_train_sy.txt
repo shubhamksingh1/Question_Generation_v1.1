@@ -1,0 +1,59 @@
+Why the AVA Approver is not matched with the GBU and must be choosen?
+If a Capex project have multiple equipment and construction change packages, does every package has to be entered as individual projects?
+Financial validation removed from the system and need a local alignment with CFO will be enough but how?
+Can you confirm again if the AVA approval is for line above threshold?
+At what point should Procurement approve (LOA) at the start of the project or when savings has been realized?
+How you determine risk factor according to categories?
+If this tool is only for projects, how will be competed real saving sheets ?
+How is the cost avoidance management, out of scope?
+How we will decide wheather line is required for procurement approval or not?
+Can we record savings below the threshold (30K?)
+Today in save, we use CSV template to import data. Shall we use the same kind of file in the new tool?
+Do you have criteria for selection of the risk factor for E.g. what is considered low risk and What is considered high risk?
+If finance is not involve in the validation, how are we going to make sure our saving reach the bottom p&l?
+How or who will validate or approve a project budget baseline and Will it be the Controllers in the Procurement Decision Center or Project Business Partner?
+At what point is Procurement vs AVA validation required,Will the procurement be required when a project is created and Will AVA is required when savings are realized?
+What is the difference between expected savings & actual savings?
+What's the difference between Budgeted baseline vs Actual baseline?
+When do we need a procurement approval?
+Is the validation limit for a Category Lead Buyer 1 mio €?
+What's the definition of each items from "Saving origin"?
+We are asked to enter projects as and when we expect cost savings and If it's clear that it will be negative cost savings, do we report accordingly or shall we delete/cancel the line?
+What is expected saving definition in case we do not have specific baseline in SPE for the needed machine for instance?
+What are the rules for finance review . How do we know?
+What is the full form of LOA?
+How to provide evidance to the audit if required. It was managed via attaching the financial comparision templates or/else offical quotions from supplier before?
+In case we do not have a clear budget (but make AED after receiving the final offer) - no need to participate?
+Isn't there a mis-match between "Total Actual Spend " and "Actual Baseline"?
+A calculated saving based on forecasted volumes, could be closed Or we have to wait end of the year for actual volume?
+Can the actual savings be updated incrementaly over time ie Monthly; or only once in total?
+I've understaood that savings <30K€ won't be recorded. What if I have a CAPEX project, generating an overall saving of 31K€, on several HACAT?
+Will Change Orders be entered as an additional line?
+What does the project exactly mean, For example, do we need to register all supplier selection?
+We need to register not only favorable saving but also unfavorable saving, is my understanding correct ?
+We are using PPV for COGS(raw materials), now we still use PPV or Sievo?
+Can we see achievement versus budget target?
+Will the Procurement approval area become automated based on the spend/savings we input, Manually doing so will create errors?
+Where can you differtiate between savings, cost avoidance and additional benefits?
+Is a finance validation from Finance required for projects over €250k only?
+What is the thresold of savings initiatives?
+Can savings be calimed only if it's a linked to Procurement initiative?
+How will be considered Cash Improvement savings, Supply Chain Financing, Payemnt Terms, Stock Reduction?
+Will they be also shared with Finance?
+Can a Buyer claim for cost avoidance linked to inflation impact if last PO was issued 3 Years Ago?
+What has no P&L Impact cannot be considered neither as CS nor CA?
+How are we supposed to share credible data with Finance if we don't inform them of a loss ?
+Are you not afraid about the fact that any buyer could claim for cost avaoidance linked to inflation if Baseline Line equals New Price?
+How do we assign savings on global projects to countries . Example: Covance, CRL, PPD.?
+If we have three steps in a tender, how should we calculate saving,Final best offer vs first best offer in the first step?
+Should we report payment terms savings in e-Savings ?
+In Example 20, is this project considered recurring, Also, in this example, is the project a line item in the budget?
+How is this tracked in eSavings?
+For new opex, very often, there is no detailed item level budget from Finance.  Finance always does envelope budget.  Is Finance community communicated on the need to have item level budget?
+For each project, there can only be one project owner and this field is mandatory. Are there any guidelines on who should be the project owner e.g. RCM?
+How to recognize savings?
+In the new approach, we need to create a significant project to create project lines under (e.g. the M&S projects) , are there any standard naming conventions for project names?
+Who is accountable for updating project in eSavings tool?
+Is there a difference in savings between static catalogues and Punch-Out catalogues?
+How to quantify in Euros?
+What savings calculation/value can be applied when storage space has been reduced as a direct result of the project?

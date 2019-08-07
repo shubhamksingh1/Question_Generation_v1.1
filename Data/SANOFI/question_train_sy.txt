@@ -1,0 +1,111 @@
+Did you get the approval form the German Work Council already?
+Why the AVA Approver is not matched with the GBU and must be choosen?
+If a Capex project have multiple equipment and construction change packages, does every package has to be entered as individual projects?
+Financial validation removed from the system and need a local alignment with CFO will be enough but how?
+Can you confirm again if the AVA approval is for line above threshold?
+At what point should Procurement approve (LOA) at the start of the project or when savings has been realized?
+Does procurement approval represent validation of Baseline and Savings?
+It seems that the new methodology has changed since the first communication we have received (possibility to record cost saving on a project with no clear budget,recording of negative cost savings, etc.) when can we expect to have an up to date presentation of the methodology to be considered for this year?
+How you determine risk factor according to categories?
+If this tool is only for projects, how will be competed real saving sheets ?
+Is it possible to report a combined volume of small projects which in total will be more than 5k EUR for small countries or such small projects are not focus anymore?
+How is the cost avoidance management, out of scope?
+How we will decide wheather line is required for procurement approval or not?
+How the coverage will be calculated, I mean if the project duration period is for 2 years, the savings/coverage shall be distributed for 2 years though negotiation process is completed in the first year?
+How to enter "Common Spend" projects, i.e. applicable for all or Multi-GBUs?
+How to proceed in case "split of spend by GBUs" is not available,Will be the case for categories not processed via POs, i.e. Car Fleet, Travel etc., Any chance to deal with "total spend" only?
+Can we record savings below the threshold (30K?)
+What´s the loss threshold that should be entered in the tool?
+30 k€ savings project can be split by lines holding less then 30 ke euros savings?
+Today in save, we use CSV template to import data. Shall we use the same kind of file in the new tool?
+At the beginning of the communication of the NSM, we were informed that the minimum saving to register for small countries was 10k€ but in the presentation today it was written that the new tool is meant to register saving above 5k€ for small countries. what should be considered now? savings above 5 or 10K€?
+A PO has been submitted for an equipment (€3M Eur with 300k Eur savings) and the cost savings are recorded accordingly and fully approved. 6 months after, there are some changes brought to the equipment (500k Eur) and thus a change order is submitted but with no savings. How shall we report change orders correctly?
+Do you have criteria for selection of the risk factor for E.g. what is considered low risk and What is considered high risk?
+If finance is not involve in the validation, how are we going to make sure our saving reach the bottom p&l?
+How or who will validate or approve a project budget baseline and Will it be the Controllers in the Procurement Decision Center or Project Business Partner?
+At what point is Procurement vs AVA validation required,Will the procurement be required when a project is created and Will AVA is required when savings are realized?
+Coud you explain the baselines ?
+What is the difference between expected savings & actual savings?
+What's the difference between Budgeted baseline vs Actual baseline?
+When do we need a procurement approval?
+Is the validation limit for a Category Lead Buyer 1 mio €?
+What's the definition of each items from "Saving origin"?
+How are roles defined. Who will be a Procurement Approver for example in small MCOs, Region Procurement head?
+Project Value Line: Who enters the project risk.Risk managagement is part of the Project Management, risks are changing during the project time - can I change the risk value according to the actual situation?
+Project LIne: In case of Change Orders during the project, this CO would mean negative savings 1st hand; negotiation savings during the claim negotiations are reducing the negative savings or are this positive savings?
+We are asked to enter projects as and when we expect cost savings. If it's clear that it will be negative cost savings, do we report accordingly or shall we delete/cancel the line?
+Is Project Business Partner the Budget Owner?
+What is expected saving definition in case we do not have specific baseline in SPE for the needed machine for instance?
+Baseline= AED Budget?
+We were told the new savings rules did not capture Payment Terms, when was this change made for AB?
+How do we know if procurement approval is needed. What are the rules?
+What are the rules for finance review . How do we know?
+Hi, What is LOA?
+Is it now  procurement responsibility to get finance approve the save sheets on time before sending it to AVA ?
+How to provide evidance to the audit if required. It was managed via attaching the financial comparision templates or/else offical quotions from supplier before?
+For example, if you have cash flow impacts for payment term improvement, can we combine several to one general "project"?
+In case we do not have a clear budget (but make AED after receiving the final offer) - no need to participate?
+Isn't there a mis-match between "Total Actual Spend " and "Actual Baseline"?
+A calculated saving based on forecasted volumes, could be closed Or we have to wait end of the year for actual volume?
+Can the actual savings be updated incrementaly over time ie Monthly; or only once in total?
+I've understaood that savings <30K€ won't be recorded. What if I have a CAPEX project, generating an overall saving of 31K€, on several HACAT?
+Will Change Orders be entered as an additional line?
+Rate Cards: There are several rate cards in place for clinical and scientific vendors,This limits the negotiation power of the buyers,Nevertheless it is in favour of SANOFI to have these rate cards in place in order to a) reduce the efforts and b) have favourable prices and volume disounts in place. How can the savings, generated from rate cards, can be reported?
+What does the project exactly mean, For example, do we need to register all supplier selection?
+We need to register not only favorable saving but also unfavorable saving, is my understanding correct ?
+We are using PPV for COGS(raw materials), now we still use PPV or Sievo?
+Will the additional benefits and cost avoidance cost as part of saving target?
+Can we see achievement versus budget target?
+Will we do F2 & budget exercise directly in the tool?
+Is controlling department involved invalidating savings?
+For the attachment or back up to the savings, will there be a recommended template?
+Will the Procurement approval area become automated based on the spend/savings we input, Manually doing so will create errors?
+Where can you differtiate between savings, cost avoidance and additional benefits?
+Is a finance validation from Finance required for projects over €250k only?
+Payment terms extension: A buyer negotiates a contractual payment term extension from 30 to 60 days. The expected spend for the year 2018 is €125 mn. The savings calculation will take into account Sanofi WACC percentage (e.g.: 7%. Payment term extension is neither a Cost Saving or Avoidance, but classified as other benefits?
+Pilot- or PoC-periods free of charges. E.g. under the contract for delivery of MFP-printers we can have 3 months free of charges?
+SaaS license volume will be reduced from 1000 units to 900 units, licenses fee will reduced form 100.000 EUR to 90.000 EUR?
+Skype launch instead of classic phone devices?
+There is no dedicated single budget for each single cost center for the overall project  - how to calculate savings?
+With my 2 years preferred partner program I create NAS (direct savings reduction of hotel prices - negotiation) during the 1 year and VAS during the 2 year (cost avoidance)?
+What is the thresold of savings initiatives?
+Can savings be calimed only if it's a linked to Procurement initiative?
+How will be considered Cash Improvement savings, Supply Chain Financing, Payemnt Terms, Stock Reduction?
+Will they be also shared with Finance?
+Can a Buyer claim for cost avoidance linked to inflation impact if last PO was issued 3 Years Ago?
+What do you mean exactly by "Accounting visibility"?Could you provide examples?
+What has no P&L Impact cannot be considered neither as CS nor CA?
+How are we supposed to share credible data with Finance if we don't inform them of a loss ?
+Are you not afraid about te fact that any buyer could claim for cost avaoidance linked to inflation if Baseline Line = New Price?
+Annual Rebate,There is an anual rebate in the contract based on purchased volumes. Shall we enter the rebate in the baseline?If yes what will be the reference next Year Y-1 including Rebates?How can we covince a Buyer to integrate the multi Years savings n one shot instead of 3 savings if it's a multi year rebate?
+Exchange rates: When a country faces a significant Inflation, the exchange rate is impacted?Example: I buy in dollars in Turkey: if the Buyer is able to maintain the  purchase price in USD, the exchange rate impact could lead to an increase of the local price Do we authorize the buyer to claim a Cost Avoidance? Ex: We buy goods in Brazil but pay in USD Price in USD remain stable but converted in BRL there is increase due to BRL devaluation?
+How do we assign savings on global projects to countries . Example: Covance, CRL, PPD.?
+If we have three steps in a tender, how should we calculate saving,Final best offer vs first best offer in the first step?
+Should we report payment terms savings in e-Savings ?
+In Example 20, is this project considered recurring, Also, in this example, is the project a line item in the budget?
+There is a new request to dispose of some obsolete equipment.  The cost of disposal is not budgeted for.  It costs $2k to dispose.  Is this $2k considered as CA since it's not budgeted for but there is P/L impact . In the end, we managed to get a recycling company who is willing to pay us $3k for these obsolete equipment.  Is the CA still $2K.  What about the $3k. Do we consider the $3k as having P/L impact since it is recorded as miscellaneous income?
+Finance has set aside a budget of EUR1.2mln for some opex.  However, due to Smart Spend initiatives (Finance to work with Procurement), the budget needs to be reduced to EUR0.5mln.  Is the difference of EUR0.7mln accounted for as CA or CS?
+Consulting contract - there is a new local consulting contract with a budget 1,400,000€ that lasts from March to the end of June 2019. The supplier raised the price in the beginning of March to 2,000,000€. Due to procurement involvement and rebates price has been reduced to 1,700,000€. In the tool after entering expected and actual spend expected savings in the line level are calculated automatically showing -300,000€. What is the type of savings in this case? How to show the positive procurement performance in the tool?
+We have a penalty to pay, it's been budgetted but from the inital 140 kUSD, Procurement managed to reduce it to 40 kUSD. What is it?  A CS, a CA or a AB?
+Basic rule for Procurement to report savings is it has to be a Procurement initiative.  But in eSavings, there is the field Savings Origin, which proposes among other choices "Business as usual", "Smart Savings", "Value Accelerated Program".  Those last 2 are not Procurement initiatives.  Does that mean non-Procurement people are supposed to enter their savings into eSavings ?
+How is this tracked in eSavings?
+For the Volume year rebate - (year 2 example).  Having a rebate agreement in place for 2 years ultimately results in a 2% discount which is a cost avoidance in the second year. Had the rebate agreement  not been put in place for 2 years then the second year cost would be 2% higher. The example specifies no cost avoidance in year 2 resulting from the rebate.  Could you please explain why?
+For new opex, very often, there is no detailed item level budget from Finance.  Finance always does envelope budget.  Is Finance community communicated on the need to have item level budget?
+In marketing, we have a standard catalogue with one supplier but we do not necessarily engage this supplier for all the mentioned activities. We have 2 other suppliers to choose from. In 2019, with this main supplier, we negotiated a lower rate for each activity.  How do we calculate the baseline for this savings?
+For each project, there can only be one project owner and this field is mandatory. Are there any guidelines on who should be the project owner e.g. RCM?
+How to recognize savings?
+In the new approach, we need to create a significant project to create project lines under (e.g. the M&S projects).  Are there any standard naming conventions for project names?
+Initially, Finance had budgeted EUR1.9mln for a particular spend.  As a result of smart spend initiatives, Finance had reduced the budget to EUR1.1mln.  Can we account the difference as cost savings?
+For a project, there was a procurement saving of EUR144k (agreed by Finance).  Business then decides to use this saving to buy more marketing activities i.e. zero impact to P/L.  With the purchase of more marketing activities, Finance mentioned that there will be zero savings recognized in F1.  In this instance, for that project, do we still recognize the saving of EUR144k?
+In case the budget has been adjusted during the F1, or is not in line with an AED, which baseline must prevail ?
+Who is accountable for updating project in eSavings tool?
+Is there a difference in savings between static catalogues and Punch-Out catalogues?
+How to quantify in Euros?
+What savings calculation/value can be applied when storage space has been reduced as a direct result of the project?
+
+
+
+
+
+
+

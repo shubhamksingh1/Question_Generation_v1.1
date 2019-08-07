@@ -1,0 +1,59 @@
+In order to limit the technical updates for new comers, change AVA approver etc.
+No every package need not to be entered as individual projects if it's the same project .
+Through a mail that should be attached to the project line.
+AVA validation threshold is 250 kEUR (positive or negative) Cost Savings and AVA Approval is on the Line level.
+Only actual savings needs Procurement Approval.
+No, Risk Factor is linked to how confident you are in the expected savings and it is impacting only expected (forecasted) savings not Actual savings.
+For each project you will have to record expected savings as soon as you are involved in a project and after the nego you will have to upadte the approrpiate line by entering the actual savings.
+No, Cost Avoidnace is a saving type to be decalred, managed in eSavings.
+Will be discussed in the next AVA LT workshop.
+Technically yes, but the defined threshold has been defined as 30k€ for large countries and 5k€ for the rest .
+No, there is a mass upload Template available in the Share Point but can be user only a detail line level.
+No Risk means you are confident in delivering 100% of the declared expected savings.
+By sharing with them during Interlock and Business Info sessions.
+Procurement approver and Finance Controller during Business Info and Interlock sessions.
+AVA validation is based on the defined thresold.
+Expected are forecasted saving, Actual are savings after negotioation.
+Most of the time it will be the same Baseline, but it may change if your project is realised many month after your first involvement.
+If the spend of the project is higher than your LOA.
+Depends on the LOAA/Category (see LOA and discuss with your manager).
+Business as Usual and Stragy are not new concepts, others choices are linked to Main Savings Programs (see your manager).
+You should report also the losses.
+If there is no clear baseline no savings can be claimed.
+Finance review take place during Interlock and Business info sessions and concens only project lines +/- 250k€.
+Full form of LOA is level of Authorization.
+As before in Save document must be attached at project Header and Project line level (detail fo savings calculation).
+Depends on the project is NEW or RECURRING -  see methodology.
+Currently yes, however, if we would expect more Project Lines (for other countries), the gap could narrow down.
+Actual savings should be calculated only on Actual volumes.
+As long as the line is open you can update actual.
+You can add to the project several project lines to differentiate and assign various HACAT.
+If the previous line is closed yes.
+Savings by Supplier is not the aim of this tool.
+Both negative and positive savings.
+No, PPV is still reported in eStore.
+eSavings will be a Rolling forecast toolYes, see report dashboards, but the global target will be frozen in ePilot once per year.
+Not automated - Proc Approver to be selected.
+See definitions in NSM Manual and Procurement Performance Guide.
+Finance will not validate Projects.
+Thresold of savings initiatives is fixed at 30 k€ (5 k€ for small coutries).
+Yes , Projects can be added post the pipeline process as well.
+Benefits from initiatives like Payment days increment to be accounted as additional benefits.
+Yes (we are asking finance to embedd the savings) - during interlock sessions.
+Cost avoidance can be claimed for projects / initiatives taken by procurement. They can't be claimed for existing contracts without any new initiative / negotiation.
+No, only CS have P&L impact.
+Negative savings will be tracked in the system but in terms of reporting the overall savings number for procurement, projects with negative cost savings will not be considered.
+If the new initiative / project / negotiation leads to preventing cost increase due to inflation then it is a genuine case of cost avoidance & buyer should be able to claim it.
+The split by countries can be only made on project line level.
+The lowest offer after technical and commercial allignment and before nego = baseline,Savings are the differnece between baseline and final negotiated price.
+YES as Additional Benefits Add Benefits amount = Yearly spend with the supplier x (New PT in days – Previous PT in days) / 360 x the Yearly WACC rate in %  €125M x (60days – 30 days) / 360 days x 7% (EXAMPLE WACC) = €729 000.
+Yes project is considered as recurrent, In case project was budgeted there is savings only if actual spend is below budget.
+Multi-year contract can be split by given years - one line item for one year, where the actual value for the fist year is considered as the baseline for the next year. (please see the example 8).
+If there is no budget only CA can be claimed.
+There are no guidelines on who should be the project owner.
+Project owner is the person who enters the project. Savings could be recognized on different levels.
+We don't have any naming convention.
+The buyer in charge is accountable for updating project in eSavings tool.
+There is no differnce with regards to Savings methodology.
+Alignment with Finance on how to quantify in euros (avarage labor cost per hour).
+Storage space reduction can generate CS or CA only in case of RENT space and it depends on Unit Cost per square meter.
